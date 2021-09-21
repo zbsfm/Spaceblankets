@@ -1,5 +1,5 @@
-# VCV-patches<img width="1177" alt="Screen Shot 2021-09-21 at 12 53 47" src="https://user-images.githubusercontent.com/56085339/134214239-6ce8da99-0685-436b-84c1-198b4497f3d7.png">
-A jammable sample-based drum machine designed for mixer controllers.
+# Spaceblankets<img width="1177" alt="Screen Shot 2021-09-21 at 12 53 47" src="https://user-images.githubusercontent.com/56085339/134214239-6ce8da99-0685-436b-84c1-198b4497f3d7.png">
+A jammable sample-based drum machine designed for mixer controllers, heavily inspired by Mylar Melodies.
 
 Everything except the HOST-FX module is free - you can substitute that for any effect you like, or simply remove it.
 
